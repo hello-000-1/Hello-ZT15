@@ -17,7 +17,7 @@
 </p>  
 
 <p align="center">
-  <img src="20250325_231611.gif" alt="Menú Principal">
+  <img src="FB_IMG_1762222841961.jpg" alt="Menú Principal">
 </p>
 
 
